@@ -1,0 +1,5 @@
+C:\Users\rian.macedo\Desktop\estudo-csharp\testeWebForm\TesteForm\TesteForm\bin\TesteForm.dll
+C:\Users\rian.macedo\Desktop\estudo-csharp\testeWebForm\TesteForm\TesteForm\bin\TesteForm.pdb
+C:\Users\rian.macedo\Desktop\estudo-csharp\testeWebForm\TesteForm\TesteForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\rian.macedo\Desktop\estudo-csharp\testeWebForm\TesteForm\TesteForm\obj\Debug\TesteForm.dll
+C:\Users\rian.macedo\Desktop\estudo-csharp\testeWebForm\TesteForm\TesteForm\obj\Debug\TesteForm.pdb
